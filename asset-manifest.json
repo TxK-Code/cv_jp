@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cv_jp/static/css/main.c2083e43.css",
+    "main.js": "/cv_jp/static/js/main.1a468029.js",
+    "static/media/0.png": "/cv_jp/static/media/0.ac7c6fdbb513541ab252.png",
+    "index.html": "/cv_jp/index.html",
+    "main.c2083e43.css.map": "/cv_jp/static/css/main.c2083e43.css.map",
+    "main.1a468029.js.map": "/cv_jp/static/js/main.1a468029.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2083e43.css",
+    "static/js/main.1a468029.js"
+  ]
+}
