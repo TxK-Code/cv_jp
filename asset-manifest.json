@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/cv_jp/static/css/main.c2083e43.css",
-    "main.js": "/cv_jp/static/js/main.1a468029.js",
+    "main.css": "/cv_jp/static/css/main.b4ad2bd2.css",
+    "main.js": "/cv_jp/static/js/main.85b746fc.js",
     "static/media/0.png": "/cv_jp/static/media/0.ac7c6fdbb513541ab252.png",
+    "static/media/Cv_Jean-Pierre_PINGET.pdf": "/cv_jp/static/media/Cv_Jean-Pierre_PINGET.845633dfca2470f90e78.pdf",
     "index.html": "/cv_jp/index.html",
-    "main.c2083e43.css.map": "/cv_jp/static/css/main.c2083e43.css.map",
-    "main.1a468029.js.map": "/cv_jp/static/js/main.1a468029.js.map"
+    "main.b4ad2bd2.css.map": "/cv_jp/static/css/main.b4ad2bd2.css.map",
+    "main.85b746fc.js.map": "/cv_jp/static/js/main.85b746fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2083e43.css",
-    "static/js/main.1a468029.js"
+    "static/css/main.b4ad2bd2.css",
+    "static/js/main.85b746fc.js"
   ]
 }
