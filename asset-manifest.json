@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cv_jp/static/css/main.40f8db8b.css",
+    "main.css": "/cv_jp/static/css/main.34fe02b8.css",
     "main.js": "/cv_jp/static/js/main.297780cd.js",
     "static/media/0.png": "/cv_jp/static/media/0.ac7c6fdbb513541ab252.png",
     "static/media/Cv_Jean-Pierre_PINGET.pdf": "/cv_jp/static/media/Cv_Jean-Pierre_PINGET.845633dfca2470f90e78.pdf",
     "index.html": "/cv_jp/index.html",
-    "main.40f8db8b.css.map": "/cv_jp/static/css/main.40f8db8b.css.map",
+    "main.34fe02b8.css.map": "/cv_jp/static/css/main.34fe02b8.css.map",
     "main.297780cd.js.map": "/cv_jp/static/js/main.297780cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.40f8db8b.css",
+    "static/css/main.34fe02b8.css",
     "static/js/main.297780cd.js"
   ]
 }
